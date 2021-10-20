@@ -10,6 +10,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 ### Added
 
 
+- Change file name of ipu_precision.py and deepspeed_precision.py to ipu.py and deepspeed.py. Also change related source code for import ([#10052](https://github.com/PyTorchLightning/pytorch-lightning/pull/10052))
+
+
 - Add support for monitoring the learning rate monitor without schedulers in `LearningRateMonitor` ([#9786](https://github.com/PyTorchLightning/pytorch-lightning/issues/9786))
 
 
