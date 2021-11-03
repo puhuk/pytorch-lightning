@@ -57,7 +57,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ### Removed
 
--
+- Remove deprecated `num_nodes` and `sync_batchnorm` from `DDPSpawnPlugin` ([#10326](https://github.com/PyTorchLightning/pytorch-lightning/pull/10326))
 
 
 -
